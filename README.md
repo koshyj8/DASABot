@@ -1,6 +1,3 @@
-_amol is **very** hot_
-
-
 ### Following are the required pre-requisites:
 The following libraries can also be found in `requirements.txt` by running the following command:  
 `pip install -r requirements.txt`
